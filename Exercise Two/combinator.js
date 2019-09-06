@@ -10,4 +10,4 @@ function combinator(instr, outstr, index) {
   }
 }
 
-combinator("Dani", "", 0); // a, ab, abc, ac, b, bc, c
+combinator("Dani", "", 0); //D Da Dan Dani Dai Dn Dni Di a an ani ai n ni i
